@@ -74,7 +74,7 @@ regarding severity, impact, and relevance.
 
 <p>
 Website: <a href="https://esc-software.com">https://esc-software.com</a><br/>
-General Contact: <a href="mailto:contato@esc-software.com">contato@esc-software.com</a><br/>
+General Contact: <a href="mailto:hello@esc-software.com">hello@esc-software.com</a><br/>
 Security: <a href="mailto:security@esc-software.com">security@esc-software.com</a>
 </p>
 
