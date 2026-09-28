@@ -1,10 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/ofuKRyo.png" alt="ESC" width="300" />
-  <br/><br/>
-</div>
-
-<br/>
-
 <strong style="font-size:16px;">Institutional Overview</strong>
 
 <p>
